@@ -12,14 +12,14 @@ Click on Layers and choose "Add a layer", and "Provide a layer version
 ARN" and enter the following ARN (replace `us-east-1` with the region of your Lambda):
 
 ```
-arn:aws:lambda:us-east-1:034541671702:layer:openssl-lambda:1
+arn:aws:lambda:us-east-1:969127486896:layer:openssl-lambda:1
 ```
 
-![Provide layer ARN](https://raw.githubusercontent.com/alexandredavi/openssl-lambda-layer/master/img/provide.PNG "Provide layer ARN screenshot")
+![Provide layer ARN](https://raw.githubusercontent.com/cbs-sports/openssl-lambda-layer/master/img/provide.PNG "Provide layer ARN screenshot")
 
 Then click Add, save your lambda and test it out!
 
-![Referenced layers](https://raw.githubusercontent.com/alexandredavi/openssl-lambda-layer/master/img/referenced.PNG "Referenced layer ARN screenshot")
+![Referenced layers](https://raw.githubusercontent.com/cbs-sports/openssl-lambda-layer/master/img/referenced.PNG "Referenced layer ARN screenshot")
 
 ## Simple example on Node.js
 
